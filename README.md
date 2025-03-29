@@ -1,12 +1,12 @@
 Hi Everyone! 
-In this README.md i'm gonna tell you everything what i learned in this laravel project- better said, my first laravel project! 
+In this README.md I'm gonna tell you everything I learned in this Laravel project- better said, my first Laravel project! 
 
-In this project i learned:
-- How to install laravel- with xampp and composer
-- Hot to manage URL with Routing and Controllers
-- How to show HTML/CSS PAGES with Blade
-- How to get Data from DB with Eloquent
-- How to create login and signin forms with Breeze and Auth
+In this project, I learned:
+- How to install Laravel using xampp and composer
+- Hot to manage URLs with Routing and Controllers
+- How to display HTML/CSS PAGES with Blade
+- How to get Data from the DB with Eloquent
+- How to create login and signup forms with Breeze and Auth
 - How to create Forms and Validate their inputs 
 
 Hope you like it! I'm so proud of my knowleadge evolution.
